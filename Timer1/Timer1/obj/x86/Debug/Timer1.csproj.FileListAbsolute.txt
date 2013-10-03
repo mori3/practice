@@ -1,0 +1,9 @@
+C:\Users\mori\documents\visual studio 2010\Projects\Timer1\Timer1\bin\Debug\Timer1.exe
+C:\Users\mori\documents\visual studio 2010\Projects\Timer1\Timer1\bin\Debug\Timer1.pdb
+C:\Users\mori\documents\visual studio 2010\Projects\Timer1\Timer1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mori\documents\visual studio 2010\Projects\Timer1\Timer1\obj\x86\Debug\Timer.Form1.resources
+C:\Users\mori\documents\visual studio 2010\Projects\Timer1\Timer1\obj\x86\Debug\Timer.Properties.Resources.resources
+C:\Users\mori\documents\visual studio 2010\Projects\Timer1\Timer1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mori\documents\visual studio 2010\Projects\Timer1\Timer1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mori\documents\visual studio 2010\Projects\Timer1\Timer1\obj\x86\Debug\Timer1.exe
+C:\Users\mori\documents\visual studio 2010\Projects\Timer1\Timer1\obj\x86\Debug\Timer1.pdb
