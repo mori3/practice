@@ -16,7 +16,7 @@ window.onload = function() {
 
 
 	var bg = new Sprite(320, 320);
-	bg.backgroundColor = "#707070";
+	bg.backgroundColor = "#000000";
 	core.rootScene.addChild(bg);
 
 	//バー作成
@@ -63,17 +63,7 @@ window.onload = function() {
 		}
 	}
 
-	//if (blockCount == 2){
-		//core.end();
-	//}
-	/*for (var i = 0; i < blocks.length; i++) {
-		if (blocks[i].intersect(ball)) {
 
-			blocks[i].remove();
-			ball.vy *= -1;
-		}
-
-	}*/
 
 
 	//ボールとバーの当たり判定
@@ -126,7 +116,7 @@ var Bar = enchant.Class.create(enchant.Sprite, {
 	initialize: function(x, y){
 		//継承元をコール
 		enchant.Sprite.call(this, 60, 8);
-		this.backgroundColor = "black";
+		this.backgroundColor = "white";
 		this.x = x;
 		this.y = y;
 		this.speed = 8;
@@ -137,7 +127,7 @@ var Bar = enchant.Class.create(enchant.Sprite, {
 			if (core.input.left && this.x > 0) {
 				this.x -= 8;
 			}
-			if (core.input.right && this.x < 270) {
+			if (core.input.right && this.x < 260) {
 				this.x += 8;
 			}
 
@@ -189,7 +179,7 @@ var Block = enchant.Class.create(enchant.Sprite, {
 	initialize: function(x, y) {
 		//継承元をコール
 		enchant.Sprite.call(this, 60, 10);
-		this.backgroundColor = "yellow";
+		this.backgroundColor = "white";
 		//座標
 		this.x = x;
 		this.y = y;
