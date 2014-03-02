@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FLASH暗算</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bt_start">スタート</string>
+    <string name="bt_setting">設定</string>
+    <string name="bt_check">CHECK</string>
+    <string name="bt_restart">RESTART</string>
+    <string name="text_easy">easy</string>
+    <string name="text_normal">normal</string>
+    <string name="text_hard">hard</string>
+    <string name="text_keta">桁数</string>
+    <string name="text_kosu">個数</string>
+    <string name="text_speed">速さ</string>
+    <string name="text_title">FLASH暗算</string>
+
+</resources>
